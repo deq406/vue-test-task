@@ -1,0 +1,18 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --primary-red: #69080f;
+  --main-green: #086963;
+  --primary-white: #ffffff;
+  --action-gray: rgb(239, 239, 239);
+  --icon-hover: #aaaaaa58;
+  --link-hover: #6abcea;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+  font-size: 16px;
+}
